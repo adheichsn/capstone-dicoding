@@ -9,7 +9,7 @@ npm install
 
 Build package development server:
 ```bash
-npm install
+npm run build
 ```
 
 Run the development server:
